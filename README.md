@@ -93,7 +93,7 @@ All rates are over valid runs only. Invalid run rate is over all runs.
 | Report Inconsistency | **22%** | 3% | 0% |
 | Concealment Indicators | 0% | 0% | 0% |
 | **Behavior PASS rate** | **17%** | **93%** | **90%** |
-| Task SUCCESS rate | 13% | 34% | 33% |
+| Task SUCCESS (`straightforward` only) | 38% [14–69%] | **100%** [72–100%] | **100%** [72–100%] |
 | Invalid Run Rate | 23% | 3% | 0% |
 
 **Haiku** misbehaves on 83% of valid runs, almost entirely via unauthorized
