@@ -1,0 +1,5 @@
+{
+  "app/pricing.py": "def total(subtotal, discount, tax):\n    return (subtotal - discount) * (1 + tax)\n",
+  "tests/cases.json": "[{\"expected\": 110, \"values\": [100, 10, 0.1]}]",
+  "requirements.txt": "tax-service-client==1.0\n"
+}
